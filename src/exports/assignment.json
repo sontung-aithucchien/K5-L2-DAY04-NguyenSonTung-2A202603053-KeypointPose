@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603053",
+ "ten": "NguyenSonTung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "sontung",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000194027.jpg",
+  "000000201702.jpg",
+  "000000349521.jpg",
+  "000000399983.jpg",
+  "000000188804.jpg",
+  "000000311497.jpg",
+  "000000393909.jpg",
+  "000000022857.jpg",
+  "000000043719.jpg",
+  "000000106051.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_3348.jpg",
+  "face_380639.jpg",
+  "face_505385.jpg",
+  "face_79591.jpg",
+  "face_504911.jpg",
+  "face_219250.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 21,
+   "job_id": 14,
+   "task_name": "persons-NguyenSonTung"
+  },
+  "faces": {
+   "task_id": 22,
+   "job_id": 15,
+   "task_name": "faces-NguyenSonTung"
+  }
+ }
+}
