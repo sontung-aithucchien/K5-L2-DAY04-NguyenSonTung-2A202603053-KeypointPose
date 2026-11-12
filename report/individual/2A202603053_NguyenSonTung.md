@@ -13,8 +13,8 @@ Dữ liệu: 12 ảnh người COCO 2017 train/val và 8 ảnh khuôn mặt đư
 - Phiên bản CVAT (Help → About): CVAT local v2.74.1
 - Máy: hệ điều hành Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có 
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Giờ bắt đầu: 16:30 12/11/2026
+- Giờ kết thúc: 21:00 12/11/2026
 
 ## 1. Kiểm tra label (CP0)
 
